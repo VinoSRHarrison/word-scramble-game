@@ -29,6 +29,7 @@ The application includes a graphical interface, background images, sound effects
 
 ## Project Structure
 
+```
 word-scramble-game
 │
 ├── main.py
@@ -40,6 +41,7 @@ word-scramble-game
 │   │
 │   └── sounds
 │       └── TunePocket-Countdown-Timer-10-Sec-1-Preview.mp3
+```
 
 ## Installation
 
